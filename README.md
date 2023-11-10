@@ -1,7 +1,10 @@
 # Please cite the following paper: 
 "Drying-induced volumetric behaviour of clays interpreted via binary pore-scale modellings"
+
 Matteo Pedrotti, Long Xu, Ian Murray, Alessandro Tarantino
+
 Computers and Geotechnics 2023
+
 https://doi.org/10.1016/j.compgeo.2023.105911
  
 # DPNM
